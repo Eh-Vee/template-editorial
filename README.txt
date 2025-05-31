@@ -1,20 +1,12 @@
+| GitHub | Eh-Vee |
 
+Editorial Template: 
 
+blog/magazine template built around a toggleable "locking"
+sidebar (scroll down to see what I mean) and an accordion-style menu.
 
-
-
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at , but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | 
+Demo images* courtesy of Unsplash, a collection of CC0 (public domain) images
+you can use for free.
 
 
 Credits:
