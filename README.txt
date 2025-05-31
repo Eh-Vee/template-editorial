@@ -1,6 +1,6 @@
 
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+
 
 
 Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
@@ -14,7 +14,7 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+aj@lkn.io | 
 
 
 Credits:
